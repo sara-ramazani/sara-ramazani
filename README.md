@@ -1,6 +1,5 @@
 ## 👋 Hi, I'm Sara!
 
-👋 Hi, I'm Sara!  
 🎓 I'm a Computer Science student at Chemeketa Community College.  
 💻 I’m passionate about technology and enjoy building small projects.  
 🧠 Currently learning Python and web development.  
