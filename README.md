@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 Hi, I'm Sara!
 
-<!--
-**sara-ramazani/sara-ramazani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Sara!  
+🎓 I'm a Computer Science student at Chemeketa Community College.  
+💻 I’m passionate about technology and enjoy building small projects.  
+🧠 Currently learning Python and web development.  
+🚀 Always excited to grow and improve as a developer.
 
-Here are some ideas to get you started:
+### 📫 Connect with me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/sara-ramazani-72bb2a353)(www.linkedin.com/in/sara-ramazani-72bb2a353)
+📧 Email: [rmi.sara303@gmail.com](mailto:rmi.sara303@gmail.com)
+
