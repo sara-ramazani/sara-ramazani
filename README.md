@@ -7,7 +7,7 @@
 
 ### 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/sara-ramazani-72bb2a353)(www.linkedin.com/in/sara-ramazani-72bb2a353)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/sara-ramazani-72bb2a353)
 
 📧 Email: [rmi.sara303@gmail.com](mailto:rmi.sara303@gmail.com)
 
